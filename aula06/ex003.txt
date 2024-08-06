@@ -1,0 +1,3 @@
+var variável = parseInt(valor) // força a variável a ser Int
+var variável = parseFloat(valor) // força a variável a ser Float
+var variável = Number(valor) // transforma automaticamente no tipo de number

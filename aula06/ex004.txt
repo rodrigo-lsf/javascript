@@ -1,0 +1,6 @@
+document.write() // Escreve uma mensagem na tela
+variável.toUpperCase() // Exibe a string em letras maiúsculas
+variável.toLowerCase() // Exibe a string em letras minúsculas
+variável.toFixed(número de casas decimais) // Adiciona casas decimais
+variável.toFixed.replace('.', ',') // Adiciona casas decimais e substitui o ponto final por vírgula
+variável.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'}) // Exibe a variável em real (R$)

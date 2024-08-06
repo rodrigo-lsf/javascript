@@ -1,0 +1,2 @@
+var variável = window.prompt('Qual é o seu nome?') // Vai armazenar na variável o valor informado
+window.alert('É um grande prazer te conhecer, ' + variável) // Concatenação

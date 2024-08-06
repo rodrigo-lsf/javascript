@@ -1,0 +1,3 @@
+window.alert('') // Exibe uma mensagem na tela
+window.confirm('') // Exibe uma mensagem com as alternativas "OK" ou "Cancel" para interação com o usuário
+window.prompt('') // Exibe uma mensagem e um campo digitável para interação com o usuário
